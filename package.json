@@ -1,0 +1,12 @@
+{
+  "name": "nduom-hostel-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nduom University hostel room management API",
+  "engines": {
+    "node": ">=22.5.0 <25"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
